@@ -1,0 +1,5 @@
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp3.0\WebKonopelko.csprojAssemblyReference.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp3.0\WebKonopelko.AssemblyInfoInputs.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp3.0\WebKonopelko.AssemblyInfo.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp3.0\WebKonopelko.TagHelpers.input.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp3.0\WebKonopelko.TagHelpers.output.cache

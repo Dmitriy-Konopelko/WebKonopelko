@@ -1,0 +1,9 @@
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko.DAL\bin\Debug\netcoreapp2.1\WebKonopelko.DAL.deps.json
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko.DAL\bin\Debug\netcoreapp2.1\WebKonopelko.DAL.dll
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko.DAL\obj\Debug\netcoreapp2.1\WebKonopelko.DAL.csproj.CoreCompileInputs.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko.DAL\obj\Debug\netcoreapp2.1\WebKonopelko.DAL.AssemblyInfoInputs.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko.DAL\obj\Debug\netcoreapp2.1\WebKonopelko.DAL.AssemblyInfo.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko.DAL\obj\Debug\netcoreapp2.1\WebKonopelko.DAL.csprojAssemblyReference.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko.DAL\bin\Debug\netcoreapp2.1\WebKonopelko.DAL.pdb
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko.DAL\obj\Debug\netcoreapp2.1\WebKonopelko.DAL.dll
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko.DAL\obj\Debug\netcoreapp2.1\WebKonopelko.DAL.pdb

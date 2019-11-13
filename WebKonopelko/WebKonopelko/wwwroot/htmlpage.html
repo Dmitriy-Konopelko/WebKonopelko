@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+
+    <link href="twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="lib/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link href="css/site.css" rel="stylesheet" />
+    <title></title>
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <!--Панель навигации-->
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+            <!--Меню сайта-->
+            <a class="navbar-brand" href="#">WebKonopelko_Lab_1</a>
+            <div class="navbar-nav">
+                <a class="nav-item nav-link active" href="#">ЛБ 1</a>
+                <a class="nav-item nav-link" href="#">Каталог</a>
+                <a class="nav-item nav-link" href="#">Администрирование</a>
+            </div>
+            <!--Меню сайта - конец-->
+            <!--Информация пользователя-->
+            <a href="#" class="navbar-text  ml-auto">
+                <i class="fa fa-shopping-cart nav-color"></i> 0
+            </a>
+
+            <div class="dropdown ml-4 nav-color">
+                <div class="dropdown-toggle" id="dropdownMenuButton"
+                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <img src="images/avatar.jpg" width="30" alt="User" class="rounded" />
+                </div>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <div class="dropdown-item-text">
+                        <img src="images/avatar.jpg" width="50" alt="User" class="rounded" />
+                        user@mail.ru
+                    </div>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Мои товары</a>
+                    <a class="dropdown-item" href="#">Log off</a>
+                </div>
+            </div>
+            <!--Информация пользователя - конец-->
+        </nav> <!--Панель навигации - конец-->            
+        </div> <!-- container конец-->
+    </header><!-- Header конец-->
+
+
+    <main class="container">
+        <h2>Список</h2>
+        <ol type="A">
+            <li>Элемент 1 списка</li>
+            <li>Элемент 2 списка</li>
+        </ol>
+
+        <form >
+            <h1>Форма</h1>
+            <div class="form-group">
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="gridCheck">
+                    <label class="form-check-label" for="gridCheck">
+                        Чек-бокс 1
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="gridCheck">
+                    <label class="form-check-label" for="gridCheck">
+                        Чек-бокс 2
+                    </label>
+                </div>
+            </div>
+
+
+            <fieldset class="form-group">
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+                    <label class="form-check-label" for="inlineRadio1">Радио 1</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+                    <label class="form-check-label" for="inlineRadio2">Радио 2</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3">
+                    <label class="form-check-label" for="inlineRadio3">Радио 3</label>
+                </div>
+            </fieldset>
+
+            <div class="form-group row">
+                <label for="inputEmail3" class="col-sm-2 col-form-label">Логин</label>
+                <div class="col-sm-6">
+                    <input type="email" class="form-control" id="inputEmail3" placeholder="Введите логин">
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="inputPassword3" class="col-sm-2 col-form-label">Пароль</label>
+                <div class="col-sm-6">
+                    <input type="password" class="form-control" id="inputPassword3" placeholder="Введите пароль">
+                </div>
+            </div>
+            <fieldset class="form-group">
+                <div>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </fieldset>
+            
+        </form>
+
+    </main>
+
+    <footer>
+        <div class="container">            
+            <div class="navbar navbar-dark navbar-expand-md bg-dark">
+                <div class="navbar-nav ml-auto">
+                    <a class="nav-item nav-link" href="http://www.facebook.com">
+                        <i class="fa fa-facebook fa-2x"></i>
+                    </a>
+                    <a class="nav-item nav-link" href="http://www.vk.com">
+                        <i class="fa fa-vk fa-2x"></i>
+                    </a>
+                    <a class="nav-item nav-link" href="http://twitter.com">
+                        <i class="fa fa-twitter fa-2x"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <script src="lib/jquery/dist/jquery.js"></script>
+    
+    <script src="twitter-bootstrap/js/bootstrap.js"></script>
+</body>
+</html>

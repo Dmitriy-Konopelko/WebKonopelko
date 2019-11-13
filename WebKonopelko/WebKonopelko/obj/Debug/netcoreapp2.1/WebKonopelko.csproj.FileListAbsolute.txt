@@ -1,0 +1,71 @@
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.deps.json
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.runtimeconfig.json
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.runtimeconfig.dev.json
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.dll
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.pdb
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.Views.dll
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.Views.pdb
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.csprojAssemblyReference.cache
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.csproj.CoreCompileInputs.cache
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.RazorAssemblyInfo.cache
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.RazorAssemblyInfo.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.AssemblyInfoInputs.cache
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.AssemblyInfo.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.TagHelpers.input.cache
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.TagHelpers.output.cache
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.RazorCoreGenerate.cache
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.RazorTargetAssemblyInfo.cache
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.RazorTargetAssemblyInfo.cs
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.Views.pdb
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.dll
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.pdb
+E:\4 триместр\Web\Лабораторные работы\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.csproj.CopyComplete
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.deps.json
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.runtimeconfig.json
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.runtimeconfig.dev.json
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.dll
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.pdb
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.Views.dll
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\bin\Debug\netcoreapp2.1\WebKonopelko.Views.pdb
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.csprojAssemblyReference.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.csproj.CoreCompileInputs.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.RazorAssemblyInfo.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.RazorAssemblyInfo.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.AssemblyInfoInputs.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.AssemblyInfo.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.TagHelpers.input.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.TagHelpers.output.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.RazorCoreGenerate.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.RazorTargetAssemblyInfo.cache
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.RazorTargetAssemblyInfo.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.Views.pdb
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.dll
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.pdb
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\WebKonopelko.csproj.CopyComplete
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Menu\Default.g.cshtml.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout_copy.g.cshtml.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_UserPartial.g.cshtml.cs
+E:\GitHub\WebKonopelko\WebKonopelko\WebKonopelko\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Cart\Default.g.cshtml.cs
